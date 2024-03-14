@@ -1,16 +1,14 @@
 
 # Teste PHP
 
-
-
-
-
 ## Retorno dos arquivos
-
-#### Retorna todos os arquivos
 
 1_ManipulacaoStrings.php
 ````
+Entrada 
+Desenvolvedor Sênior em PHP
+
+Saida
 PHP em Sênior Desenvolvedor 
 ````
 2_ManipulacaoArrays.php
@@ -31,8 +29,9 @@ PHP em Sênior Desenvolvedor
 ````
 3_ManipulacaoArquivos.php
 ````
-01/03/2024 00:00:00
-05/03/2024 23:59:59
+Buscar Por
+Data Inicio: 01/03/2024 00:00:00
+Data Fim:    05/03/2024 23:59:59
  
  ->:  LOG DATA: 01/03/2024 10:00:00 Mensagem: Iniciado 
  ->:  LOG DATA: 02/03/2024 13:20:00 Mensagem: Em Andamento 
